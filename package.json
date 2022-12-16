@@ -1,0 +1,22 @@
+{
+	"name": "csc214project",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@adminjs/express": "^5.0.1",
+		"@faker-js/faker": "^7.6.0",
+		"adminjs": "^6.7.2",
+		"adminjs-sql": "^1.1.2",
+		"express": "^4.18.2",
+		"express-formidable": "^1.2.0",
+		"express-session": "^1.17.3",
+		"mysql2": "^2.3.3"
+	}
+}
